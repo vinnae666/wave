@@ -1,3 +1,0 @@
-CREATE DATABASE wave;
-CREATE USER 'wave'@'localhost' IDENTIFIED BY 'wave_password';
-GRANT ALL PRIVILEGES ON wave.* TO 'wave'@'localhost';
